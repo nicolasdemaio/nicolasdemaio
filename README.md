@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**nicolasdemaio/nicolasdemaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend software developer and a Computer Science student.
 
-Here are some ideas to get you started:
+*Birthdate: December 7, 1999 ✨*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 I’m currently working at [Mercado Libre](https://www.mercadolibre.com.ar/)
+- 🌱 I’m currently studying at [Universidad Nacional de Quilmes](http://www.unq.edu.ar/)
+- 📫 Contact: nicolas.demaio19@gmail.com
+- ⚡ Fun fact: I like spent time learning news technologies and doing personal projects
+
+```ruby
+  def skills
+    return backend() + frontend()
+    
+  def backend
+    return [
+      'Spring Boot',
+      'Java',
+      'MySQL',
+      'MongoDB',
+      'Redis'
+    ]
+    
+  def frontend
+    return [
+      'HTML & CSS',
+      'Javascript',
+      'Angular',
+      'React'
+    ]
+```
+
