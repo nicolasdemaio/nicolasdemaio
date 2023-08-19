@@ -26,7 +26,6 @@ I'm a Backend software developer and a Computer Science student.
     return [
       'HTML & CSS',
       'Javascript',
-      'Angular',
       'React'
     ]
 ```
